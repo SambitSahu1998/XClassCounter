@@ -7,7 +7,7 @@ class App extends Component{
       <div style={{padding:"16px"}}>
         <Counter />
       </div>
-    )
+    );
   }
 }
 
