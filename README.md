@@ -1,2 +1,2 @@
 # XClassCounter
-Class Based Counter
+Class Based Counter.
